@@ -6,10 +6,20 @@ Predicting the outcomes of matches given different features
 
 for the prediction in the notebook
 > rank of home team=15
+
+
 > rank of away team=32
+
+
 > in a friendly match
+
+
 chances to score
-home team =1.5 : chance for scoring one goal is 100% and a 50 % chance to score a second goal
-away team =0.8 : chance for scoring one goal is 80%
-Home team wins 😁
+> home team =1.5 : chance for scoring one goal is 100% and a 50 % chance to score a second goal
+
+
+>away team =0.8 : chance for scoring one goal is 80%
+
+
+>Home team wins 😁
 .... ITs still a decent working progress 
