@@ -15,11 +15,13 @@ for the prediction in the notebook
 
 
 chances to score
-> home team =1.5 : chance for scoring one goal is 100% and a 50 % chance to score a second goal
+> home team =1.54 : chance for scoring one goal is 100% and a 54 % chance to score a second goal
 
 
 >away team =0.8 : chance for scoring one goal is 80%
 
 
 >Home team wins 😁
+
+
 .... ITs still a decent working progress 
